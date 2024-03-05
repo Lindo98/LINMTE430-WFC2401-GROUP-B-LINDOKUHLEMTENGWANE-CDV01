@@ -39,17 +39,14 @@ By completing this reflection, you will gain a clearer understanding of your car
     - I still need to invest more time on JavaScript
       
  1. **Interests and Values**:
-    
-    - Describe your key interests related to your career.
-   
       
-      Staying up-to-date with the latest programming languages, frameworks, and tools to broaden skillsets.
+     - Staying up-to-date with the latest programming languages, frameworks, and tools to broaden skillsets.
       
-      Participating in and contributing to open-source projects to collaborate with the global developer community.
+     - Participating in and contributing to open-source projects to collaborate with the global developer community.
       
-      Enjoying the challenge of solving complex problems and developing efficient algorithms.
+     - Enjoying the challenge of solving complex problems and developing efficient algorithms.
       
-      Creating intuitive and user-friendly interfaces for applications.
+     - Creating intuitive and user-friendly interfaces for applications.
 
       
       
