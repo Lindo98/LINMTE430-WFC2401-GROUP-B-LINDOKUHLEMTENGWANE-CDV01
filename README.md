@@ -25,15 +25,15 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 1. **Skills Analysis**:
     
-    - HTML, CSS, and JavaScript
+      - HTML, CSS, and JavaScript
       
-      Using Git and platforms like GitHub for version control
+      - Using Git and platforms like GitHub for version control
       
-      Developing algorithmic problem-solving skills through coursework and coding challenges.
+      - Developing algorithmic problem-solving skills through coursework and coding challenges.
       
-      Defining and designing the interactions between users and digital products.
+      - Defining and designing the interactions between users and digital products.
       
-      Creating visually appealing designs with a strong understanding of color theory, typography, and layout.
+      - Creating visually appealing designs with a strong understanding of color theory, typography, and layout.
 
       
     - I still need to invest more time on JavaScript
